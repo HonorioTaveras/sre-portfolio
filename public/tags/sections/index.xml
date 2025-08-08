@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sections on</title><link>http://localhost:1313/tags/sections/</link><description>Recent content in Sections on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 20 Jan 2024 14:30:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sections/index.xml" rel="self" type="application/rss+xml"/><item><title>Advanced Hugo Sections</title><link>http://localhost:1313/articles/second-article/</link><pubDate>Sat, 20 Jan 2024 14:30:00 +0000</pubDate><guid>http://localhost:1313/articles/second-article/</guid><description>&lt;p>This is the second article, demonstrating how multiple articles appear in the same section.&lt;/p>
+&lt;h2 id="advanced-section-features">Advanced Section Features&lt;/h2>
+&lt;p>Hugo sections provide powerful features for content organization:&lt;/p>
+&lt;h3 id="custom-section-templates">Custom Section Templates&lt;/h3>
+&lt;p>You can create custom templates for each section by placing them in &lt;code>layouts/SECTION/&lt;/code>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>layouts/articles/list.html&lt;/code> - for &lt;code>/articles/&lt;/code> page&lt;/li>
+&lt;li>&lt;code>layouts/articles/single.html&lt;/code> - for individual articles&lt;/li>
+&lt;/ul>
+&lt;h3 id="section-variables">Section Variables&lt;/h3>
+&lt;p>In templates, you can access section-specific data:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-go" data-lang="go">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#1f2328">{{&lt;/span> &lt;span style="color:#1f2328">.&lt;/span>&lt;span style="color:#1f2328">Section&lt;/span> &lt;span style="color:#1f2328">}}&lt;/span> &lt;span style="color:#57606a">// &amp;#34;articles&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#1f2328">{{&lt;/span> &lt;span style="color:#1f2328">.&lt;/span>&lt;span style="color:#1f2328">Type&lt;/span> &lt;span style="color:#1f2328">}}&lt;/span> &lt;span style="color:#57606a">// content type&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#1f2328">{{&lt;/span> &lt;span style="color:#1f2328">.&lt;/span>&lt;span style="color:#1f2328">Pages&lt;/span> &lt;span style="color:#1f2328">}}&lt;/span> &lt;span style="color:#57606a">// all pages in section&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#1f2328">{{&lt;/span> &lt;span style="color:#1f2328">.&lt;/span>&lt;span style="color:#1f2328">RegularPages&lt;/span> &lt;span style="color:#1f2328">}}&lt;/span> &lt;span style="color:#57606a">// only regular pages&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="taxonomies-per-section">Taxonomies per Section&lt;/h3>
+&lt;p>Each section can have its own taxonomies (tags, categories) with independent organization.&lt;/p></description></item></channel></rss>

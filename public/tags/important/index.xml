@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Important on</title><link>http://localhost:1313/tags/important/</link><description>Recent content in Important on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 25 Jan 2024 16:45:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/important/index.xml" rel="self" type="application/rss+xml"/><item><title>Breaking News</title><link>http://localhost:1313/news/breaking-news/</link><pubDate>Thu, 25 Jan 2024 16:45:00 +0000</pubDate><guid>http://localhost:1313/news/breaking-news/</guid><description>&lt;p>This is breaking news content demonstrating how different sections can contain different types of content while using the same underlying Hugo section functionality.&lt;/p>
+&lt;h2 id="news-section-benefits">News Section Benefits&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Separate URL space&lt;/strong>: &lt;code>/news/&lt;/code> vs &lt;code>/articles/&lt;/code>&lt;/li>
+&lt;li>&lt;strong>Different content structure&lt;/strong>: News vs long-form articles&lt;/li>
+&lt;li>&lt;strong>Independent RSS feeds&lt;/strong>: &lt;code>/news/index.xml&lt;/code>&lt;/li>
+&lt;li>&lt;strong>Custom styling&lt;/strong>: Different templates if needed&lt;/li>
+&lt;/ul>
+&lt;p>This allows for clear content separation while maintaining consistency in the overall site structure.&lt;/p></description></item></channel></rss>
