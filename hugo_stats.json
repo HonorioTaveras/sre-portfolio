@@ -328,6 +328,7 @@
       "page-experience",
       "page-ferdinand-shermand",
       "page-first-article",
+      "page-galvanize",
       "page-getting-started",
       "page-graziella-nutella",
       "page-high-school",
@@ -481,6 +482,7 @@
       "custom-section-templates",
       "customizing-the-theme",
       "date",
+      "draft-false",
       "editing-the-theme-content",
       "education",
       "emailHelp",
@@ -568,6 +570,7 @@
       "travail",
       "troubleshooting",
       "unordered",
+      "weight-10",
       "what-are-hugo-sections",
       "wordcount"
     ]
