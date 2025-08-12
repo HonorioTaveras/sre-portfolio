@@ -59,6 +59,8 @@
       "use"
     ],
     "classes": [
+      "<i",
+      "LinkedIn",
       "about-me",
       "about__profile-picture",
       "active",
@@ -96,6 +98,7 @@
       "card-title",
       "categories",
       "choice",
+      "class='fa-brands",
       "client-works-container",
       "clients",
       "clients__item",
@@ -175,6 +178,7 @@
       "experience__location",
       "experience__meta",
       "experience__title",
+      "fa-linkedin'></i>",
       "featured-post-container",
       "featured-thumbnail",
       "fixed-top",
@@ -265,6 +269,7 @@
       "light",
       "light-border-bottom",
       "light-border-top",
+      "linkedin",
       "list",
       "list-taxonomy",
       "list-term",

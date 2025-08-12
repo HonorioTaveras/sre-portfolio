@@ -40,12 +40,12 @@ draft = false
     title="Education" >}}
 
 {{< experience-section
-    title="My job experience (title)"
-    intro_title="Intro (intro_title)"
-    intro_description="Description (intro_description).<br>You can use HTML,with <strong>strong</strong> formatting, or lists <ul><li>one</li><li>two</li></ul>"
-    button1_url="https://example.com"
-    button1_text="(1) Visit Example"
-    button1_icon="icon-globe"
+    title="Experience"
+    intro_title=" "
+    intro_description="At Uplight, I engineered infrastructure that powered energy programs reaching millions of customers. My work centered on building resilient systems, scaling cloud environments, and removing friction from development workflows. Through thoughtful automation and proactive operations, I created a foundation where products could evolve quickly without sacrificing stability."
+    button1_url="https://www.linkedin.com/in/honoriot/"
+    button1_text="Peep the LinkedIn"
+    button1_icon="icon-linkedin"
     button2_text="(2) Skills"
     button2_url="/skills"
     hideViewAll="false"
