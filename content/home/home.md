@@ -11,7 +11,7 @@ draft = false
     buttonText="Email"
     buttonUrl="mailto:htaveras90@gmail.com"
     description="Based in Boulder, Colorado 🏔️, I work at the intersection of infrastructure, automation, and reliability, helping teams deliver software with confidence and speed. My focus is on creating systems that scale effortlessly, recover gracefully, and empower engineers to move fast without breaking things.<br/><br/>A pragmatic problem-solver with a systems mindset, I bring a breadth of experience spanning cloud platforms, infrastructure as code, CI/CD, and observability. Over my career, I’ve taken projects from proof-of-concept to production-grade, bridging the gap between development and operations while championing resilient architectures and repeatable workflows.<br/><br/>I’m passionate about reducing toil, designing paved paths, and building a culture of ownership where reliability is everyone’s responsibility. Whether it’s crafting automation that frees up human focus, mentoring teammates in best practices, or refining deployment pipelines, I aim to create environments where people and systems can thrive together."
-    imgSrc="images/showcase/showcase.png"
+    imgSrc="images/about/headshot-ltcn.png"
     imgScale="0.5"
  >}}
 

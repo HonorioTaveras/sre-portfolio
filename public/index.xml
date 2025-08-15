@@ -968,14 +968,14 @@ params:
  
  
 
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_d37b8c855bc40569.webp 1x, http://localhost:1313/images/showcase/showcase_hu_bb220d2f819b63f2.webp 2x" type="image/webp" />
- &lt;source srcset="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png 1x, http://localhost:1313/images/showcase/showcase_hu_55c9d46ab35228bc.png 2x" type="image/png">
+ &lt;source srcset="http://localhost:1313/images/about/headshot-ltcn_hu_902535c2e3d9dbaf.webp 1x, http://localhost:1313/images/about/headshot-ltcn_hu_ed60274c48aa517a.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/headshot-ltcn_hu_ed58aff16443c780.png 1x, http://localhost:1313/images/about/headshot-ltcn_hu_3cc137f80ef2dce0.png 2x" type="image/png">
 
  &lt;img
- width="790"
- height="768"
+ width="1019"
+ height="1278"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/showcase/showcase_hu_36a7c350e756fdba.png"
+ data-src="http://localhost:1313/images/about/headshot-ltcn_hu_ed58aff16443c780.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
