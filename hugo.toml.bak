@@ -1,5 +1,5 @@
 baseURL = "https://adritian-demo.vercel.app/"
-title = "Honorio Taveras"
+title = "Adritian Demo"
 languageCode = "en"
 
 
@@ -133,6 +133,18 @@ weight = 1
 name = 'About'
 URL = '#about'
 weight = 2
+[[languages.en.menus.header]]
+name = 'Skills'
+URL = '/skills'
+weight = 3
+[[languages.en.menus.header]]
+name = 'Portfolio'
+URL = '#client-and-work-section'
+weight = 4
+#  [[languages.en.menus.header]]
+#  name = "Experience"
+#  URL = "#experience"
+#  weight = 4
 
 [[languages.en.menus.header]]
 name = "How to"
