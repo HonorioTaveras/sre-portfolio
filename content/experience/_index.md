@@ -18,6 +18,6 @@ My professional journey began at Galvanize (Hack Reactor), where I completed an 
 
 From there, I joined Uplight as an Infrastructure Intern, stepping directly into a production environment where reliability and scale were critical. In that role, I built practical skills in cloud infrastructure and began shaping the workflows that keep complex systems running smoothly.
 
-I advanced to Site Reliability Engineer I, and later to SRE II, expanding my impact on the team. My work centered on infrastructure as code, automation, CI/CD pipelines, and observability practices, always with the goal of reducing friction and enabling engineers to deliver software confidently. Beyond the technical scope, I focused on enablement—designing paved paths, building documentation, and empowering development teams to operate more independently.
+I advanced to Site Reliability Engineer I, and later to SRE II, expanding my impact on the team. My work centered on infrastructure as code, automation, CI/CD pipelines, and observability practices, always with the goal of reducing friction and enabling engineers to deliver software confidently. Beyond the technical scope, I focused on enablement, designing paved paths, building documentation, and empowering development teams to operate more independently.
 
-[Inference] This progression from software training through increasing levels of infrastructure ownership reflects not just technical growth, but also a focus on creating environments where reliability and developer autonomy go hand in hand.
+This progression from software training through increasing levels of infrastructure ownership reflects not just technical growth, but also a focus on creating environments where reliability and developer autonomy go hand in hand.

@@ -411,50 +411,6 @@
  
 
  
- &lt;div class="experience">
- &lt;a href="http://localhost:1313/fr/experience/job-3/" class="experience__link">
- &lt;div class="experience__header">
- 
- 
- &lt;div class="experience__meta">
- &lt;div class="experience__date">2024-maintenant&lt;/div>
- &lt;div class="experience__title">PDG&lt;/div>
- &lt;div class="experience__company">
- Internet Affairs Inc..
- &lt;span class="experience__location">Stavanger, Norvège&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="experience__description d-none d-print-block">
- &lt;h1>Poste #3&lt;/h1>
- Réparer le monde, un octet à la fois Prise de contrôle hostile - qui est le patron maintenant !
-
- &lt;/div>
- &lt;/div>
- &lt;/a>
- &lt;/div>
- 
- &lt;div class="experience">
- &lt;a href="http://localhost:1313/fr/experience/job-2/" class="experience__link">
- &lt;div class="experience__header">
- 
- 
- &lt;div class="experience__meta">
- &lt;div class="experience__date">2023-2024&lt;/div>
- &lt;div class="experience__title">Stagiaire en Chef&lt;/div>
- &lt;div class="experience__company">
- Internet Affairs Inc..
- &lt;span class="experience__location">Stavanger, Norvège&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="experience__description d-none d-print-block">
- &lt;h1>Poste #2&lt;/h1>
- Réparer le monde, un octet à la fois Poursuivant la quête.
-
- &lt;/div>
- &lt;/div>
- &lt;/a>
- &lt;/div>
- 
 
  
  &lt;/div>

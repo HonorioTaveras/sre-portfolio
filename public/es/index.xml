@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/es/</link><description>Recent content on</description><generator>Hugo</generator><language>es</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Puesto #3</title><link>http://localhost:1313/es/experience/job-3/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-3/</guid><description>&lt;h2 id="3rd-job-gerente-general">3rd job: Gerente General&lt;/h2>
-&lt;p>Con una traducción al español, se puede llegar a cualquier parte.&lt;/p></description></item><item><title>Trabajo #2</title><link>http://localhost:1313/es/experience/job-2/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-2/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez">Arreglando el mundo, un byte a la vez&lt;/h2>
-&lt;p>Continuando la misión.&lt;/p></description></item><item><title>Trabajo #1</title><link>http://localhost:1313/es/experience/job-1/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/es/experience/job-1/</guid><description>&lt;h2 id="arreglando-el-mundo-un-byte-a-la-vez">Arreglando el mundo, un byte a la vez&lt;/h2>
-&lt;p>El comienzo de una gran carrera.&lt;/p></description></item><item><title>Footer</title><link>http://localhost:1313/es/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/footer/footer/</guid><description>&lt;section id="contacto" class="section section--contact pt-0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>http://localhost:1313/es/</link><description>Recent content on</description><generator>Hugo</generator><language>es</language><lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml"/><item><title>Footer</title><link>http://localhost:1313/es/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/es/footer/footer/</guid><description>&lt;section id="contacto" class="section section--contact pt-0">
  &lt;div class="container">
  &lt;div class="contact w-100">
  &lt;h2>Contáctame&lt;/h2>
@@ -563,72 +560,6 @@
 
  
 
- 
- &lt;div class="experience">
- &lt;a href="http://localhost:1313/es/experience/job-3/" class="experience__link">
- &lt;div class="experience__header">
- 
- 
- &lt;div class="experience__meta">
- &lt;div class="experience__date">2024-now&lt;/div>
- &lt;div class="experience__title">Gerente General&lt;/div>
- &lt;div class="experience__company">
- Translated Content.
- &lt;span class="experience__location">Stavanger, Norway&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="experience__description d-none d-print-block">
- &lt;h1>Puesto #3&lt;/h1>
- 3rd job: Gerente General Con una traducción al español, se puede llegar a cualquier parte.
-
- &lt;/div>
- &lt;/div>
- &lt;/a>
- &lt;/div>
- 
- &lt;div class="experience">
- &lt;a href="http://localhost:1313/es/experience/job-2/" class="experience__link">
- &lt;div class="experience__header">
- 
- 
- &lt;div class="experience__meta">
- &lt;div class="experience__date">2023-2024&lt;/div>
- &lt;div class="experience__title">Becario Jefe&lt;/div>
- &lt;div class="experience__company">
- Internet Affairs Inc..
- &lt;span class="experience__location">Stavanger, Noruega&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="experience__description d-none d-print-block">
- &lt;h1>Trabajo #2&lt;/h1>
- Arreglando el mundo, un byte a la vez Continuando la misión.
-
- &lt;/div>
- &lt;/div>
- &lt;/a>
- &lt;/div>
- 
- &lt;div class="experience">
- &lt;a href="http://localhost:1313/es/experience/job-1/" class="experience__link">
- &lt;div class="experience__header">
- 
- 
- &lt;div class="experience__meta">
- &lt;div class="experience__date">2022-2024&lt;/div>
- &lt;div class="experience__title">Becario Junior&lt;/div>
- &lt;div class="experience__company">
- Internet Affairs Inc..
- &lt;span class="experience__location">Stavanger, Noruega&lt;/span>
- &lt;/div>
- &lt;/div>
- &lt;div class="experience__description d-none d-print-block">
- &lt;h1>Trabajo #1&lt;/h1>
- Arreglando el mundo, un byte a la vez El comienzo de una gran carrera.
-
- &lt;/div>
- &lt;/div>
- &lt;/a>
- &lt;/div>
  
 
  

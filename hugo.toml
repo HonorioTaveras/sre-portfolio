@@ -111,9 +111,9 @@ disableTags = false
 enable = true
 
 [params.languages.selector.disable]
-footer = false
-header = false
-mobileHeader = false
+footer = true
+header = true
+mobileHeader = true
 
 [languages]
 [languages.en]
@@ -125,19 +125,24 @@ title = ''
 weight = 0
 
 [languages.en.menus]
-[[languages.en.menus.header]]
-name = "Home"
-URL = "/"
-weight = 1
+# [[languages.en.menus.header]]
+# name = "Home"
+# URL = "/"
+# weight = 1
 [[languages.en.menus.header]]
 name = 'About'
 URL = '#about'
 weight = 2
 
 [[languages.en.menus.header]]
-name = "How to"
-URL = "/blog"
+name = "Experience"
+URL = "#experience-single"
 weight = 5
+
+# [[languages.en.menus.header]]
+# name = "How to"
+# URL = "/blog"
+# weight = 5
 
 [[languages.en.menus.header]]
 pre = "email"
@@ -145,11 +150,11 @@ name = "email"
 URL = "#contact"
 weight = 6
 
-[[languages.en.menus.header]]
-pre = "search"
-name = "Search"
-URL = "/search"
-weight = 7
+# [[languages.en.menus.header]]
+# pre = "search"
+# name = "Search"
+# URL = "/search"
+# weight = 7
 
 [[languages.en.menus.footer]]
 name = "Home"
