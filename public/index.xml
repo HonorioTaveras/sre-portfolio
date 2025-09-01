@@ -769,7 +769,95 @@ params:
  └── breaking-news.md
 &lt;/code>&lt;/pre>&lt;p>This creates accessible URLs like:&lt;/p></description></item><item><title>Site Reliability Engineer</title><link>http://localhost:1313/experience/uplight/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/uplight/</guid><description>&lt;h2 id="site-reliability-engineer">Site Reliability Engineer&lt;/h2>
 &lt;p>I began my career at Uplight as an Infrastructure Intern, where I built foundational skills in managing production systems and understanding how reliability engineering supports both business and customer outcomes. Over time, I advanced into SRE I and ultimately SRE II, taking on deeper technical ownership and broader responsibilities in shaping how infrastructure was designed, automated, and maintained.&lt;/p>
-&lt;p>My work contributed directly to infrastructure powering energy efficiency programs that reached millions of customers. Day to day, I focused on building automation, infrastructure as code, CI/CD pipelines, and observability practices. These efforts reduced toil, standardized deployments, and enabled engineering teams to ship changes more confidently.&lt;/p></description></item><item><title>Galvanize (Hack Reactor) — Software Engineering Immersive</title><link>http://localhost:1313/education/galvanize/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/education/galvanize/</guid><description/></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;section id="contact" class="section section--contact pt-0">
+&lt;p>My work contributed directly to infrastructure powering energy efficiency programs that reached millions of customers. Day to day, I focused on building automation, infrastructure as code, CI/CD pipelines, and observability practices. These efforts reduced toil, standardized deployments, and enabled engineering teams to ship changes more confidently.&lt;/p></description></item><item><title>Galvanize (Hack Reactor) — Software Engineering Immersive</title><link>http://localhost:1313/education/galvanize/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/education/galvanize/</guid><description/></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;p>
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+&lt;section id="contact" class="section section--contact pt-0">
  &lt;div class="container">
  &lt;div class="contact w-100">
  &lt;h2>Reach out&lt;/h2>
@@ -787,12 +875,12 @@ params:
  &lt;/div>
  &lt;div class="row pt-4">
  &lt;div class="col-12">
- &lt;input type="tel" name="phone" class="form-control" placeholder="Your phone">
+ &lt;input type="tel" name="phone" class="form-control" >
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
  &lt;div class="col-12">
- &lt;textarea name="message" class="form-control" rows="3" placeholder="Your text">&lt;/textarea>
+ &lt;textarea name="message" class="form-control" rows="3" placeholder="Your message">&lt;/textarea>
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
@@ -804,18 +892,15 @@ params:
  &lt;/div>
  &lt;div class="col-12 col-lg-5 contact__info">
  
- &lt;h3>My phone&lt;/h3>
- &lt;span>&lt;a href='tel:+555666777'>555 666 777&lt;/a>&lt;/span>
- 
 
  
  &lt;h3>My mail&lt;/h3>
- &lt;span>&lt;a href='mailto:demo@demosite.com'>demo@demosite.com&lt;/a>&lt;/span>
+ &lt;span>&lt;a href='mailto:htaveras90@gmail.com'>htaveras90@gmail.com&lt;/a>&lt;/span>
  
  
  
  &lt;h3>My location&lt;/h3>
- &lt;span>🇩🇰 Denmark&lt;/span>
+ &lt;span>🏔️ Boulder, CO&lt;/span>
  
  &lt;/div>
  &lt;/div>
@@ -823,6 +908,8 @@ params:
  &lt;/div>
 &lt;/section>
 
+&lt;!-- contact_form_phone="Your phone" -->
+&lt;!-- contact_phone_number="&lt;a href='tel:+18632582260'>1 863 258 2260&lt;/a>" -->&lt;/p>
 
 
 

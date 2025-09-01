@@ -6,24 +6,24 @@ draft = false
 
 
 {{< contact-section
-    title="Reach out" 
+    title="Reach out"
     contact_form_name="Your name"
     contact_form_email="Your e-mail"
-    contact_form_message="Your text"
-    contact_form_phone="Your phone"
+    contact_form_message="Your message"
     contact_button="Send message"
     contact_phone_title="My phone"
-    contact_phone_number="<a href='tel:+555666777'>555 666 777</a>"
     contact_email_title="My mail"
-    contact_email_email="<a href='mailto:demo@demosite.com'>demo@demosite.com</a>"
+    contact_email_email="<a href='mailto:htaveras90@gmail.com'>htaveras90@gmail.com</a>"
     contact_address_title="My location"
-    contact_address_address="🇩🇰 Denmark"
+    contact_address_address="🏔️ Boulder, CO"
     form_action="https://formspree.io/f/mail@example.com"
     form_method="POST"
     contact_form_rows="3"
 >}}
+    <!-- contact_form_phone="Your phone" -->
+    <!-- contact_phone_number="<a href='tel:+18632582260'>1 863 258 2260</a>" -->
 
-{{< newsletter-section 
+{{< newsletter-section
     newsletter_title="Stay updated"
     newsletter_placeholder="Enter your email"
     newsletter_button="Subscribe"
@@ -39,7 +39,7 @@ draft = false
 title="Extra footer content"
 centered="true"
 >}}
-Additional content added after the `section` blocks. 
+Additional content added after the `section` blocks.
 
 Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
 
