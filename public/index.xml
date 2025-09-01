@@ -910,7 +910,7 @@ params:
 
 &lt;!-- contact_form_phone="Your phone" -->
 &lt;!-- contact_phone_number="&lt;a href='tel:+18632582260'>1 863 258 2260&lt;/a>" -->&lt;/p>
-
+&lt;!-- 
 
 
 
@@ -960,52 +960,7 @@ params:
  
  Something went wrong, please try again. 
  
- &lt;/p>
- &lt;/div>
- &lt;script src='http://localhost:1313/js/subscription.js'>&lt;/script>
- &lt;/div>
- &lt;small id="emailHelp" class="form-text text-muted">
- 
- We respect your privacy and won&amp;#39;t share your data. 
- 
- &lt;/small>
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
- 
- 
-
-
-&lt;section class="section section--border-bottom rad-animation-group section--padding">
- &lt;div class="container d-flex justify-content-center align-items-center">
- &lt;div class="row rad-fade-down">
- &lt;div class="col-12 text-center">
- 
- &lt;h2 class="section__title">Extra footer content&lt;/h2>
- 
- 
- &lt;div class="text-section__content">
- &lt;p>Additional content added after the &lt;code>section&lt;/code> blocks.&lt;/p></description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;/p></description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 
