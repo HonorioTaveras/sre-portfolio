@@ -167,14 +167,19 @@ URL = "#about"
 weight = 2
 
 [[languages.en.menus.footer]]
-name = "Portfolio"
-URL = "#portfolio"
+name = "Experience"
+URL = "/experience"
 weight = 3
 
-[[languages.en.menus.footer]]
-name = "Contact"
-URL = "#contact"
-weight = 4
+# [[languages.en.menus.footer]]
+# name = "Portfolio"
+# URL = "#portfolio"
+# weight = 3
+
+# [[languages.en.menus.footer]]
+# name = "Contact"
+# URL = "#contact"
+# weight = 4
 
 
 [languages.es]

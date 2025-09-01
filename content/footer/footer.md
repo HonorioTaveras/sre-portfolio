@@ -36,9 +36,9 @@ draft = false
 
 
 {{< text-section
-title="Extra footer content"
 centered="true"
 >}}
+<!-- title="Extra footer content" -->
 <!-- Additional content added after the `section` blocks.
 
 Here you could freestyle, add other shortcodes, ...  Or just let the content empty, and rely on the shortcode sections alone.
