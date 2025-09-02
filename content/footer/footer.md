@@ -18,7 +18,7 @@ draft = false
     contact_address_address="🏔️ Boulder, CO"
     form_action="https://formspree.io/f/mail@example.com"
     form_method="POST"
-    contact_form_rows="3"
+    contact_form_rows="2"
 >}}
     <!-- contact_form_phone="Your phone" -->
     <!-- contact_phone_number="<a href='tel:+18632582260'>1 863 258 2260</a>" -->

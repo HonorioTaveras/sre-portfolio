@@ -880,7 +880,7 @@ params:
  &lt;/div>
  &lt;div class="row pt-4">
  &lt;div class="col-12">
- &lt;textarea name="message" class="form-control" rows="3" placeholder="Your message">&lt;/textarea>
+ &lt;textarea name="message" class="form-control" rows="2" placeholder="Your message">&lt;/textarea>
  &lt;/div>
  &lt;/div>
  &lt;div class="row pt-4">
@@ -1094,7 +1094,7 @@ params:
 &lt;/section>
 
 
-&lt;p>
+
 
 
 
@@ -1120,7 +1120,34 @@ params:
 
 
 
+
  
+ 
+
+
+
+ 
+ 
+
+
+ &lt;picture class="">
+ 
+ 
+
+ &lt;source srcset="http://localhost:1313/images/about/portfolio-shot_hu_531c104ab7846fcf.webp 1x, http://localhost:1313/images/about/portfolio-shot_hu_67b775784b633637.webp 2x" type="image/webp" />
+ &lt;source srcset="http://localhost:1313/images/about/portfolio-shot_hu_63544639baa30dc8.png 1x, http://localhost:1313/images/about/portfolio-shot_hu_9e7f459a50fffac0.png 2x" type="image/png">
+
+ &lt;img
+ width="604"
+ height="806"
+ class="lozad img-responsive image-left-overflow"
+ data-src="http://localhost:1313/images/about/portfolio-shot_hu_63544639baa30dc8.png"
+ alt=''
+ src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+ loading="lazy"
+ decoding="async"
+ />
+ &lt;/picture>
 
  &lt;/div>
  &lt;div class="col-12 col-md-6 my-auto">
@@ -1129,16 +1156,206 @@ params:
  I thrive on turning complex, moving parts into smooth-running systems that people can trust. My work blends technical problem-solving with a focus on team enablement so engineers can spend more time building and less time firefighting.&lt;br/>&lt;br/>I’ve navigated projects across cloud platforms, infrastructure as code, observability stacks, and CI/CD pipelines. Along the way, I’ve learned that the most impactful systems don’t just run well, they empower developers to move independently, backed by clear documentation, smart automation, and a foundation that removes barriers and accelerates delivery.&lt;br/>&lt;br/>I work by three principles:&lt;br/>&lt;br/>1. &lt;strong>Enablement by Design&lt;/strong> – Create systems, documentation, and automation that let developers work independently without bottlenecks.&lt;br/>2. &lt;strong>Resilience in Every Layer&lt;/strong> – Build infrastructure that recovers gracefully, scales effortlessly, and reduces operational firefighting.&lt;br/>3. &lt;strong>Clarity Over Complexity&lt;/strong> – Favor clear processes and maintainable solutions that are kind to both the operators and the codebase.
  &lt;/div>
  
+ &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
+ &lt;i class="icon-user">&lt;/i>
+ Check my skills
+ &lt;/a>
+ 
  &lt;/div>
  &lt;/div>
  &lt;/div>
 &lt;/section>
-&lt;!-- button_icon="icon-user"
-button_text="Check my skills"
-button_url="http://localhost:1313/skills"
-imgSrc="images/about/user-picture.png"
-imgScale="0.5"
-v_align="center"
-h_align="left" -->&lt;/p></description></item><item><title>Printable CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
+
+
+
+
+&lt;section
+ id="education"
+ class="section section--border-bottom rad-animation-group"
+>
+ &lt;div class="container-education">
+ &lt;div class="row rad-fade-down">
+ &lt;div class="col-12">
+ &lt;h2>Education&lt;/h2>
+ &lt;div class="row pt-2 pt-md-4">
+ 
+ &lt;div class="col-12 col-sm-6 mb-4 mb-sm-0">
+ &lt;div class="education">
+ &lt;div class="education__date">2020&lt;/div>
+ &lt;div class="education__title">Galvanize (Hack Reactor)&lt;/div>
+ &lt;div class="education__degree">Software Engineering Immersive&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+&lt;section id="experience-single" class="section-experience section section--border-bottom rad-animation-group flex-grow-1">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 col-md-6">
+ &lt;h2>
+ 
+ Experience
+ 
+ &lt;/h2>
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ &lt;div class="experience">
+ &lt;a href="http://localhost:1313/experience/uplight/" class="experience__link">
+ &lt;div class="experience__header">
+ 
+ 
+ 
+ &lt;img 
+ src="http://localhost:1313/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" 
+ alt=" logo"
+ class="experience__company-logo"
+ loading="lazy"
+ />
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">May 2021 - Nov 2024&lt;/div>
+ &lt;div class="experience__title">Site Reliabilty Engineer&lt;/div>
+ &lt;div class="experience__company">
+ Uplight, Inc..
+ &lt;span class="experience__location">Boulder, Colorado&lt;/span>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-none d-print-block">
+ &lt;h1>Site Reliability Engineer&lt;/h1>
+ Site Reliability Engineer I began my career at Uplight as an Infrastructure Intern, where I built foundational skills in managing production systems and understanding how reliability engineering supports both business and customer outcomes. Over time, I advanced into SRE I and ultimately SRE II, taking on deeper technical ownership and broader responsibilities in shaping how infrastructure was designed, automated, and maintained.
+My work contributed directly to infrastructure powering energy efficiency programs that reached millions of customers. Day to day, I focused on building automation, infrastructure as code, CI/CD pipelines, and observability practices. These efforts reduced toil, standardized deployments, and enabled engineering teams to ship changes more confidently.
+In addition to delivering technical improvements, I emphasized enablement, creating paved paths, writing documentation, and designing workflows that allowed developers to operate more independently and rely less on centralized SRE/DevOps intervention. This work helped balance speed and stability, ensuring that products could evolve without introducing unnecessary risk.
+By combining hands-on system improvements with a culture of enablement, I helped Uplight scale its engineering practices and create a foundation that supported both developer autonomy and long-term platform resilience.
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;/div>
+ &lt;div class="experience-description col-12 col-md-6">
+ 
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="container-experience">
+ &lt;div class="row">
+ &lt;h2> &lt;/h2>
+ &lt;div class="lead">At Uplight, I engineered infrastructure that powered energy programs reaching millions of customers. My work centered on building resilient systems, scaling cloud environments, and removing friction from development workflows. Through thoughtful automation and proactive operations, I created a foundation where products could evolve quickly without sacrificing stability.&lt;/div>
+ &lt;/div>
+
+ &lt;div class="row">
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='https://www.linkedin.com/in/honoriot/'
+ class="btn btn-primary btn-block w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ &lt;i class="icon-linkedin">&lt;/i>
+ Peep the LinkedIn
+ &lt;i class="icon-arrow-right">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;div class="col-12 col-lg-4">
+ &lt;a
+ href='http://localhost:1313/resume/honorio-taveras-resume.pdf'
+ class="btn btn-frameless w-100"
+ target="_blank"
+ rel="noopener noreferrer"
+ >
+ &lt;i class="icon-download">&lt;/i>
+ Download Resumé
+ &lt;/a>
+ &lt;/div>
+ 
+
+ 
+ &lt;/div>
+&lt;/div>
+
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+&lt;!-- 
+
+
+
+
+
+
+
+
+&lt;section id="experience-list-shortcode" class="section-experience section section--border-bottom rad-animation-group flex-grow-1 ">
+ &lt;div class="row flex-column-reverse flex-md-row rad-fade-down">
+ &lt;div class="experience-list col-12 mt-5 mt-sm-0">
+ 
+ &lt;h2 class="section__title mb-4">Experience (as list)&lt;/h2>
+ 
+ 
+ 
+
+ 
+
+ 
+ &lt;div class="experience row">
+ &lt;div class="experience__header col-12 col-md-3 d-flex align-items-start">
+ 
+ 
+ 
+ &lt;img src="http://localhost:1313/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" alt=" logo"
+ class="experience__company-logo" loading="lazy">
+ 
+ &lt;div class="experience__meta">
+ &lt;div class="experience__date">May 2021 - Nov 2024&lt;/div>
+ &lt;div class="experience__title">Site Reliabilty Engineer&lt;/div>
+ &lt;div class="experience__company">Uplight, Inc.. &lt;span class="experience__location">
+ Boulder, Colorado&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="experience__description d-print-block col-12 col-md-9 mt-3 mt-md-0">
+ &lt;h1>Site Reliability Engineer&lt;/h1>
+ &lt;h2 id="site-reliability-engineer">Site Reliability Engineer&lt;/h2>
+&lt;p>I began my career at Uplight as an Infrastructure Intern, where I built foundational skills in managing production systems and understanding how reliability engineering supports both business and customer outcomes. Over time, I advanced into SRE I and ultimately SRE II, taking on deeper technical ownership and broader responsibilities in shaping how infrastructure was designed, automated, and maintained.&lt;/p></description></item><item><title>Printable CV</title><link>http://localhost:1313/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/cv/</guid><description>&lt;p>ℹ This page is a demo of the printer-friendly output of the theme. You can find the source code in the demo repo (&lt;a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md%29">https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md)&lt;/a>. Try printing it directly from your browser!&lt;/p>
 &lt;h3 id="about-me">About me&lt;/h3>
 &lt;p>I am a passionate software engineer with over 10 years of experience building web applications and distributed systems. My expertise spans full-stack development, cloud architecture, and leading engineering teams to deliver impactful solutions. I thrive on solving complex technical challenges while mentoring others and fostering a collaborative engineering culture.&lt;/p></description></item><item><title>Search</title><link>http://localhost:1313/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/search/</guid><description>search</description></item></channel></rss>

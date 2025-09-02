@@ -2,52 +2,88 @@
 title: "Technical Skills"
 date: 2025-05-19T14:56:00+01:00
 draft: false
-description: "A comprehensive overview of technical skills and expertise across various domains."
+description: "A showcase of technical expertise spanning cloud infrastructure, automation, observability, and enablement."
 skill_categories:
-  - name: "Programming Languages"
+  - name: "Cloud Platforms"
     skills:
-      - name: "JavaScript/TypeScript"
+      - name: "Amazon Web Services (AWS)"
         level: 95
-        years: "10+"
-        description: "Modern ES6+, TypeScript, React, Node.js"
-      - name: "Java"
-        level: 85
-        years: "8+"
-        description: "Enterprise applications, Spring framework"
-      - name: "PHP"
+        years: "5"
+        description: "EC2, Lambda, RDS, S3, Transit Gateway, IAM, ACM"
+      - name: "Google Cloud Platform (GCP)"
         level: 90
-        years: "10+"
-        description: "Laravel, Symfony, WordPress"
-      - name: "Swift/Objective-C"
-        level: 80
-        years: "7+"
-        description: "iOS native development"
-      - name: "Kotlin/Java"
-        level: 75
-        years: "6+"
-        description: "Android native development"
-  - name: "Frameworks & Technologies"
+        years: "4"
+        description: "Compute Engine, Cloud Storage, VPC Networking, IAM"
+  - name: "Infrastructure as Code"
     skills:
-      - name: "React/React Native"
-        level: 90
-        years: "7+"
-        description: "Web and cross-platform mobile apps"
-      - name: "Node.js"
-        level: 90
-        years: "8+"
-        description: "Express, NestJS, API development"
-      - name: "AWS"
+      - name: "Terraform / Terragrunt"
+        level: 95
+        years: "4+"
+        description: "Multi-cloud infrastructure provisioning, module design, zero-downtime upgrades"
+      - name: "CloudFormation"
         level: 85
-        years: "6+"
-        description: "EC2, S3, Lambda, CloudFront, RDS"
-      - name: "Docker/Kubernetes"
-        level: 80
-        years: "5+"
-        description: "Containerization, orchestration"
-      - name: "CI/CD"
+        years: "4"
+        description: "Infrastructure stacks, networking, automation"
+      - name: "Ansible"
+        level: 75
+        years: "4"
+        description: "Configuration management, server automation, idempotent deployments"
+  - name: "CI/CD & Automation"
+    skills:
+      - name: "CI/CD Pipelines"
         level: 90
-        years: "8+"
-        description: "GitHub Actions, Jenkins, CircleCI"
+        years: "5"
+        description: "CircleCI, GitHub Actions, GitLab CI/CD, Chalice, organizational orbs and workflows"
+      - name: "Automation"
+        level: 95
+        years: "5"
+        description: "Shell, Python, and Go scripts; reducing toil through ADE (Automation, Documentation, Enablement)"
+  - name: "Monitoring & Observability"
+    skills:
+      - name: "Splunk"
+        level: 90
+        years: "4"
+        description: "Log indexing, dashboards, incident-driven insights"
+      - name: "Datadog"
+        level: 90
+        years: "4"
+        description: "Metrics, monitors, alerts, integrations"
+      - name: "PagerDuty"
+        level: 90
+        years: "4"
+        description: "Incident management, escalation policies, service integrations"
+      - name: "Wormly"
+        level: 85
+        years: "4"
+        description: "External uptime monitoring and SFTP integration checks"
+  - name: "Networking, Security & Access"
+    skills:
+      - name: "DNS Management"
+        level: 80
+        years: "4"
+        description: "Route53, Name.com, multi-domain configuration, migrations"
+      - name: "Certificates & SSL/TLS"
+        level: 80
+        years: "4"
+        description: "ACM, DigiCert, Certbot, rotation & renewal processes"
+      - name: "Linux & SSH"
+        level: 80
+        years: "4"
+        description: "User management, SFTP setup, hardening, automation"
+  - name: "Collaboration & Enablement"
+    skills:
+      - name: "ADE Mindset"
+        level: 95
+        years: "4"
+        description: "Automation, Documentation, Enablement — empowering developers to self-serve without SRE bottlenecks"
+      - name: "Incident Management"
+        level: 85
+        years: "4"
+        description: "Blameless postmortems, escalation handling, improving feedback loops"
+      - name: "Documentation & Knowledge Sharing"
+        level: 95
+        years: "5"
+        description: "Confluence, Wikis, runbooks, paved paths for devs"
 ---
 
-As a technology professional, I've developed expertise across multiple technical domains throughout my career. This skills showcase highlights my technical capabilities, from programming languages to architectural patterns and methodologies.
+Over the course of my career, I’ve built expertise across infrastructure, automation, observability, and team enablement. This skills showcase highlights not just the tools I’ve mastered, but the mindset I bring, designing systems that scale, reduce toil, and empower developers to work independently. My focus is always on pairing technical depth with practical impact, so that both people and platforms thrive.
