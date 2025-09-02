@@ -1,4 +1,5 @@
 baseURL = "https://honoriotaveras.com"
+canonifyURLs = true
 title = "Honorio Taveras"
 languageCode = "en"
 
