@@ -864,7 +864,7 @@ params:
 
  &lt;div class="row pt-2">
  &lt;div class="col-12 col-lg-7">
- &lt;form action="https://formspree.io/f/mail@example.com" method="POST" class="contact__form">
+ &lt;form action="https://formspree.io/f/xdopwqnr" method="POST" class="contact__form">
  &lt;div class="row">
  &lt;div class="col-12 col-sm-6">
  &lt;input type="text" name="full_name" class="form-control" placeholder="Your name">

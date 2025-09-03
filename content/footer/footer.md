@@ -16,7 +16,7 @@ draft = false
     contact_email_email="<a href='mailto:htaveras90@gmail.com'>htaveras90@gmail.com</a>"
     contact_address_title="My location"
     contact_address_address="🏔️ Boulder, CO"
-    form_action="https://formspree.io/f/mail@example.com"
+    form_action="https://formspree.io/f/xdopwqnr"
     form_method="POST"
     contact_form_rows="2"
 >}}
