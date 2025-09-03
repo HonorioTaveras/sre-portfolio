@@ -67,7 +67,7 @@ target = "assets/css/bootstrap-print.css"
 [params]
 title = 'Honorio Taveras — SRE/DevOps'
 description = 'SRE/DevOps engineer focused on reliability, automation, and enablement.'
-images = ['/img/og-img.png']
+images = ['/assets/images/social-preview-image.png']
 sections = [
   "showcase",
   "about",
