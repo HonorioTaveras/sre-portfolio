@@ -1,0 +1,17 @@
+name: Link check
+on:
+  schedule: [{cron: "0 6 * * *"}]  # daily at 06:00 UTC
+  workflow_dispatch:
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build (no deploy)
+        run: |
+          npm ci || true
+          hugo --minify --gc --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --verbose --no-progress ./public

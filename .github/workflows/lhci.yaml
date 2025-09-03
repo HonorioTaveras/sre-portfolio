@@ -1,0 +1,16 @@
+name: Lighthouse
+on:
+  schedule: [{cron: "0 7 * * 1"}]   # Mondays
+  workflow_dispatch:
+jobs:
+  lhci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        run: |
+          npm ci || true
+          hugo --minify --gc --cacheDir "${{ runner.temp }}/hugo_cache"
+          npx http-server ./public -p 8080 & sleep 2
+      - name: Run Lighthouse CI
+        run: npx @lhci/cli@0.14.0 autorun --collect.url=http://localhost:8080/
