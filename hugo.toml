@@ -1,7 +1,8 @@
-baseURL = "https://honoriotaveras.com"
+baseURL = "https://honoriotaveras.com/"
 canonifyURLs = true
 title = "Honorio Taveras"
 languageCode = "en"
+enableRobotsTXT = true
 
 
 # Exclude footer section from generating list pages (index.html and index.xml)
@@ -64,8 +65,8 @@ target = "assets/css/bootstrap-print.css"
 
 
 [params]
-title = 'Honorio Taveras - Site Reliability / DevOps Engineer'
-description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
+title = 'Honorio Taveras — SRE/DevOps'
+description = 'SRE/DevOps engineer focused on reliability, automation, and enablement.'
 images = ['/img/og-img.png']
 sections = [
   "showcase",
