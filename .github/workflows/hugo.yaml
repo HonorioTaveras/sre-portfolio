@@ -101,6 +101,24 @@ jobs:
         with:
           path: ./public
 
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+         path: |
+          node_modules
+          ~/.npm
+         key: npm-${{ hashFiles('package-lock.json') }}
+         restore-keys: npm-
+
+      - name: Cache Hugo module/cache
+        uses: actions/cache@v4
+        with:
+          path: ${{ runner.temp }}/hugo_cache
+          key: hugo-${{ github.ref }}-${{ github.sha }}
+          restore-keys: |
+            hugo-${{ github.ref }}-
+            hugo-
+
   deploy:
     environment:
       name: github-pages
@@ -111,3 +129,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+
