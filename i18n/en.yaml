@@ -1,19 +1,19 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Honorio Taveras — SRE / DevOps Engineer"
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Site Reliability / DevOps engineer focused on reliability, automation, and enablement."
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+  translation: "honorio, taveras, honorio taveras, sre, devops, site reliability engineer, software engineer"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "Honorio Taveras"
 - id: "meta_image"
-  translation: "/img/general/og-image.jpg"
+  translation: "/static/img/social-preview-image.png"
 
 ## Header
 
 - id: "logo_alt"
-  translation: "Adritian logo"
+  translation: "Honorio Taveras logo"
 
 - id: "logo_text1"
   translation: "Honorio"
@@ -47,10 +47,10 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Honorio Taveras — SRE / DevOps Engineer"
 
 - id: "head_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "Site Reliability / DevOps engineer focused on reliability, automation, and enablement."
 
 
 ## Blog

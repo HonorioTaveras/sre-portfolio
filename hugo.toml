@@ -123,7 +123,6 @@ disabled = false
 languageCode = 'en'
 languageDirection = 'ltr'
 languageName = 'English'
-title = ''
 weight = 0
 
 [languages.en.menus]
