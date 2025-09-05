@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Honorio Taveras</title><link>http://localhost:1313/</link><description>Recent content on Honorio Taveras</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>Site Reliability Engineer</title><link>http://localhost:1313/experience/uplight/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>http://localhost:1313/experience/uplight/</guid><description>&lt;h2 id="site-reliability-engineer">Site Reliability Engineer&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Honorio Taveras</title><link>https://honoriotaveras.com/</link><description>Recent content on Honorio Taveras</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://honoriotaveras.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Site Reliability Engineer</title><link>https://honoriotaveras.com/experience/uplight/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://honoriotaveras.com/experience/uplight/</guid><description>&lt;h2 id="site-reliability-engineer">Site Reliability Engineer&lt;/h2>
 &lt;p>I began my career at Uplight as an Infrastructure Intern, where I built foundational skills in managing production systems and understanding how reliability engineering supports both business and customer outcomes. Over time, I advanced into SRE I and ultimately SRE II, taking on deeper technical ownership and broader responsibilities in shaping how infrastructure was designed, automated, and maintained.&lt;/p>
-&lt;p>My work contributed directly to infrastructure powering energy efficiency programs that reached millions of customers. Day to day, I focused on building automation, infrastructure as code, CI/CD pipelines, and observability practices. These efforts reduced toil, standardized deployments, and enabled engineering teams to ship changes more confidently.&lt;/p></description></item><item><title>Galvanize (Hack Reactor) — Software Engineering Immersive</title><link>http://localhost:1313/education/galvanize/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>http://localhost:1313/education/galvanize/</guid><description/></item><item><title>Footer</title><link>http://localhost:1313/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/footer/footer/</guid><description>&lt;p>
+&lt;p>My work contributed directly to infrastructure powering energy efficiency programs that reached millions of customers. Day to day, I focused on building automation, infrastructure as code, CI/CD pipelines, and observability practices. These efforts reduced toil, standardized deployments, and enabled engineering teams to ship changes more confidently.&lt;/p></description></item><item><title>Galvanize (Hack Reactor) — Software Engineering Immersive</title><link>https://honoriotaveras.com/education/galvanize/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://honoriotaveras.com/education/galvanize/</guid><description/></item><item><title>Footer</title><link>https://honoriotaveras.com/footer/footer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://honoriotaveras.com/footer/footer/</guid><description>&lt;p>
 
  
 
@@ -162,7 +162,7 @@
  &lt;div class="rad-subscription-group">
  &lt;form
  id="rad-subscription"
- action="http://localhost:1313/"
+ action="https://honoriotaveras.com/"
  method="POST"
  >
  &lt;input
@@ -191,7 +191,7 @@
  
  Something went wrong, please try again. 
  
- &lt;/p></description></item><item><title>Home</title><link>http://localhost:1313/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
+ &lt;/p></description></item><item><title>Home</title><link>https://honoriotaveras.com/home/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://honoriotaveras.com/home/home/</guid><description>&lt;section id="showcase" class="rad-showcase rad-showcase--index rad-animation-group rad-fade-down">
  &lt;div id="main-content">
  
 
@@ -236,14 +236,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/headshot-ltcn_hu_902535c2e3d9dbaf.webp 1x, http://localhost:1313/images/about/headshot-ltcn_hu_ed60274c48aa517a.webp 2x" type="image/webp" />
- &lt;source srcset="http://localhost:1313/images/about/headshot-ltcn_hu_ed58aff16443c780.png 1x, http://localhost:1313/images/about/headshot-ltcn_hu_3cc137f80ef2dce0.png 2x" type="image/png">
+ &lt;source srcset="https://honoriotaveras.com/images/about/headshot-ltcn_hu_902535c2e3d9dbaf.webp 1x, https://honoriotaveras.com/images/about/headshot-ltcn_hu_ed60274c48aa517a.webp 2x" type="image/webp" />
+ &lt;source srcset="https://honoriotaveras.com/images/about/headshot-ltcn_hu_ed58aff16443c780.png 1x, https://honoriotaveras.com/images/about/headshot-ltcn_hu_3cc137f80ef2dce0.png 2x" type="image/png">
 
  &lt;img
  width="1019"
  height="1278"
  class="lozad img-responsive "
- data-src="http://localhost:1313/images/about/headshot-ltcn_hu_ed58aff16443c780.png"
+ data-src="https://honoriotaveras.com/images/about/headshot-ltcn_hu_ed58aff16443c780.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -365,14 +365,14 @@
  
  
 
- &lt;source srcset="http://localhost:1313/images/about/portfolio-shot_hu_531c104ab7846fcf.webp 1x, http://localhost:1313/images/about/portfolio-shot_hu_67b775784b633637.webp 2x" type="image/webp" />
- &lt;source srcset="http://localhost:1313/images/about/portfolio-shot_hu_63544639baa30dc8.png 1x, http://localhost:1313/images/about/portfolio-shot_hu_9e7f459a50fffac0.png 2x" type="image/png">
+ &lt;source srcset="https://honoriotaveras.com/images/about/portfolio-shot_hu_531c104ab7846fcf.webp 1x, https://honoriotaveras.com/images/about/portfolio-shot_hu_67b775784b633637.webp 2x" type="image/webp" />
+ &lt;source srcset="https://honoriotaveras.com/images/about/portfolio-shot_hu_63544639baa30dc8.png 1x, https://honoriotaveras.com/images/about/portfolio-shot_hu_9e7f459a50fffac0.png 2x" type="image/png">
 
  &lt;img
  width="604"
  height="806"
  class="lozad img-responsive image-left-overflow"
- data-src="http://localhost:1313/images/about/portfolio-shot_hu_63544639baa30dc8.png"
+ data-src="https://honoriotaveras.com/images/about/portfolio-shot_hu_63544639baa30dc8.png"
  alt=''
  src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
  loading="lazy"
@@ -387,7 +387,7 @@
  I thrive on turning complex, moving parts into smooth-running systems that people can trust. My work blends technical problem-solving with a focus on team enablement so engineers can spend more time building and less time firefighting.&lt;br/>&lt;br/>I’ve navigated projects across cloud platforms, infrastructure as code, observability stacks, and CI/CD pipelines. Along the way, I’ve learned that the most impactful systems don’t just run well, they empower developers to move independently, backed by clear documentation, smart automation, and a foundation that removes barriers and accelerates delivery.&lt;br/>&lt;br/>I work by three principles:&lt;br/>&lt;br/>1. &lt;strong>Enablement by Design&lt;/strong> – Create systems, documentation, and automation that let developers work independently without bottlenecks.&lt;br/>2. &lt;strong>Resilience in Every Layer&lt;/strong> – Build infrastructure that recovers gracefully, scales effortlessly, and reduces operational firefighting.&lt;br/>3. &lt;strong>Clarity Over Complexity&lt;/strong> – Favor clear processes and maintainable solutions that are kind to both the operators and the codebase.
  &lt;/div>
  
- &lt;a href="http://localhost:1313/skills" target="_blank" class="btn btn-primary">
+ &lt;a href="https://honoriotaveras.com/skills" target="_blank" class="btn btn-primary">
  &lt;i class="icon-user">&lt;/i>
  Check my skills
  &lt;/a>
@@ -458,13 +458,13 @@
 
  
  &lt;div class="experience">
- &lt;a href="http://localhost:1313/experience/uplight/" class="experience__link">
+ &lt;a href="https://honoriotaveras.com/experience/uplight/" class="experience__link">
  &lt;div class="experience__header">
  
  
  
  &lt;img 
- src="http://localhost:1313/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" 
+ src="https://honoriotaveras.com/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" 
  alt=" logo"
  class="experience__company-logo"
  loading="lazy"
@@ -530,7 +530,7 @@ By combining hands-on system improvements with a culture of enablement, I helped
  
  &lt;div class="col-12 col-lg-4">
  &lt;a
- href='http://localhost:1313/resume/honorio-taveras-resume.pdf'
+ href='https://honoriotaveras.com/resume/honorio-taveras-resume.pdf'
  class="btn btn-frameless w-100"
  target="_blank"
  rel="noopener noreferrer"
@@ -574,7 +574,7 @@ By combining hands-on system improvements with a culture of enablement, I helped
  
  
  
- &lt;img src="http://localhost:1313/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" alt=" logo"
+ &lt;img src="https://honoriotaveras.com/images/experience/uplightenergy_logo_hu_75096a56d2e0f9e.webp" alt=" logo"
  class="experience__company-logo" loading="lazy">
  
  &lt;div class="experience__meta">
