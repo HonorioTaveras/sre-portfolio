@@ -1,6 +1,8 @@
 # Honorio Taveras — SRE / DevOps Portfolio
 
 [![Build & Deploy](https://github.com/HonorioTaveras/sre-portfolio/actions/workflows/hugo.yaml/badge.svg)](https://github.com/HonorioTaveras/sre-portfolio/actions/workflows/hugo.yaml)
+[![Uptime Status](https://img.shields.io/uptimerobot/status/m801305553-bb2b4eed688a89bdf41bebb7?label=Website%20Uptime&style=flat-square)](https://stats.uptimerobot.com/SqEb9VLsdK)
+[![Uptime 30d](https://img.shields.io/uptimerobot/ratio/m801305553-bb2b4eed688a89bdf41bebb7?label=Uptime%20Last%2030d)](https://stats.uptimerobot.com/SqEb9VLsdK)
 
 Live site: **https://honoriotaveras.com**
 
