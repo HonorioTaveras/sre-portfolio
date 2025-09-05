@@ -87,6 +87,7 @@ jobs:
           hugo \
             --gc \
             --minify \
+            --cleanDestinationDir \
             --cacheDir "${{ runner.temp }}/hugo_cache"
 
       - name: Cache save
